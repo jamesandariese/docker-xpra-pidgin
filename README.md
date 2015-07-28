@@ -6,7 +6,7 @@ Persistent, shared IM.  It's the dream.
 
 With Hangouts, you can have it.  Same with Slack.  Same with HipChat.
 
-Ever try to use [`XEP-0280`][http://xmpp.org/extensions/xep-0280.html]
+Ever try to use [`XEP-0280`](http://xmpp.org/extensions/xep-0280.html)
 (XMPP Message Carbons)?
 
 Yeah.
